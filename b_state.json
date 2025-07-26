@@ -1,5 +1,4 @@
 {
-  "post_counter": 37004,
   "users_data": {
     "active": [
       13681152,
@@ -54,10 +53,10 @@
       1332412534,
       7763366523,
       390084733,
-      5918425215,
+      5461808767,
       1391582848,
       2045643392,
-      5461808767,
+      5918425215,
       2040629385,
       7562992782,
       5361028244,
@@ -257,9 +256,5 @@
     "banned": []
   },
   "message_counter": {},
-  "settings": {
-    "bot_threads_enabled": false,
-    "dvach_enabled": false,
-    "promo_enabled": false
-  }
+  "post_counter": 37004
 }
