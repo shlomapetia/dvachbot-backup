@@ -15,13 +15,13 @@
     "37007": {
       "author_id": 1890028643,
       "timestamp": "2025-07-27T00:29:41.771373+00:00",
-      "author_message_id": 29,
+      "author_message_id": null,
       "board_id": "vg"
     },
     "37010": {
       "author_id": 7716348189,
       "timestamp": "2025-07-27T00:29:53.564975+00:00",
-      "author_message_id": 31,
+      "author_message_id": null,
       "board_id": "vg"
     }
   }
