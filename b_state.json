@@ -3,7 +3,6 @@
     "active": [
       13681152,
       1323783174,
-      8196123143,
       1041117192,
       1926732808,
       531748874,
@@ -301,6 +300,6 @@
     "banned": []
   },
   "message_counter": {},
-  "board_post_count": 48448,
-  "post_counter": 50764
+  "board_post_count": 48460,
+  "post_counter": 50776
 }
