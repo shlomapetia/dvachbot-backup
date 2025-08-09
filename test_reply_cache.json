@@ -2,12 +2,6 @@
   "post_to_messages": {},
   "message_to_post": {},
   "messages_storage_meta": {
-    "52034": {
-      "author_id": 0,
-      "timestamp": "2025-08-08T21:14:43.779783+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
     "52150": {
       "author_id": 0,
       "timestamp": "2025-08-09T01:33:13.785428+00:00",
