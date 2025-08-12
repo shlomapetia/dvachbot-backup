@@ -1,6 +1,12 @@
 {
-  "post_to_messages": {},
-  "message_to_post": {},
+  "post_to_messages": {
+    "59223": {
+      "1890028643": 12
+    }
+  },
+  "message_to_post": {
+    "1890028643_12": 59223
+  },
   "messages_storage_meta": {
     "54546": {
       "author_id": 0,
@@ -23,6 +29,12 @@
     "58301": {
       "author_id": 0,
       "timestamp": "2025-08-12T02:49:39.417113+00:00",
+      "author_message_id": null,
+      "board_id": "test"
+    },
+    "59223": {
+      "author_id": 0,
+      "timestamp": "2025-08-12T16:22:57.439310+00:00",
       "author_message_id": null,
       "board_id": "test"
     }
