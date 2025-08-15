@@ -158,19 +158,7 @@
       "482139241": 2222
     }
   },
-  "message_to_post": {
-    "1890028643_2080": 57394,
-    "1163970492_2118": 60774,
-    "1890028643_2128": 60774,
-    "1890028643_2137": 60811,
-    "1163970492_2151": 60811,
-    "1890028643_2156": 60813,
-    "1163970492_2169": 60813,
-    "1163970492_2175": 60815,
-    "1890028643_2180": 60815,
-    "1163970492_2194": 60816,
-    "1890028643_2196": 60816
-  },
+  "message_to_post": {},
   "messages_storage_meta": {
     "57394": {
       "author_id": 1890028643,
@@ -199,31 +187,31 @@
     "60774": {
       "author_id": 1163970492,
       "timestamp": "2025-08-14T10:56:00.932832+00:00",
-      "author_message_id": 2118,
+      "author_message_id": null,
       "board_id": "vg"
     },
     "60811": {
       "author_id": 1890028643,
       "timestamp": "2025-08-14T11:26:58.461282+00:00",
-      "author_message_id": 2137,
+      "author_message_id": null,
       "board_id": "vg"
     },
     "60813": {
       "author_id": 1890028643,
       "timestamp": "2025-08-14T11:27:05.342716+00:00",
-      "author_message_id": 2156,
+      "author_message_id": null,
       "board_id": "vg"
     },
     "60815": {
       "author_id": 1163970492,
       "timestamp": "2025-08-14T11:32:09.711182+00:00",
-      "author_message_id": 2175,
+      "author_message_id": null,
       "board_id": "vg"
     },
     "60816": {
       "author_id": 1163970492,
       "timestamp": "2025-08-14T11:32:13.561075+00:00",
-      "author_message_id": 2194,
+      "author_message_id": null,
       "board_id": "vg"
     },
     "61042": {
