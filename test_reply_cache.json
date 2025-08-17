@@ -53,12 +53,7 @@
       "7716348189": 54
     }
   },
-  "message_to_post": {
-    "1890028643_42": 63407,
-    "1890028643_45": 63408,
-    "1890028643_49": 63409,
-    "1890028643_51": 63410
-  },
+  "message_to_post": {},
   "messages_storage_meta": {
     "58287": {
       "author_id": 0,
@@ -171,7 +166,7 @@
     "63407": {
       "author_id": 1890028643,
       "timestamp": "2025-08-16T07:06:56.369646+00:00",
-      "author_message_id": 42,
+      "author_message_id": null,
       "board_id": "test"
     },
     "63408": {
@@ -183,13 +178,13 @@
     "63409": {
       "author_id": 1890028643,
       "timestamp": "2025-08-16T07:07:08.615701+00:00",
-      "author_message_id": 49,
+      "author_message_id": null,
       "board_id": "test"
     },
     "63410": {
       "author_id": 1890028643,
       "timestamp": "2025-08-16T07:07:08.768659+00:00",
-      "author_message_id": 51,
+      "author_message_id": null,
       "board_id": "test"
     },
     "63411": {
