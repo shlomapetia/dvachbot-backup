@@ -1,35 +1,5 @@
 {
   "post_to_messages": {
-    "60596": {
-      "1890028643": 18
-    },
-    "60597": {
-      "1890028643": 20
-    },
-    "60598": {
-      "1890028643": 22
-    },
-    "60599": {
-      "1890028643": 24
-    },
-    "60600": {
-      "1890028643": 26
-    },
-    "60601": {
-      "1890028643": 28
-    },
-    "60602": {
-      "1890028643": 30
-    },
-    "60603": {
-      "1890028643": 32
-    },
-    "60604": {
-      "1890028643": 34
-    },
-    "60605": {
-      "1890028643": 36
-    },
     "63407": {
       "1890028643": 42,
       "7716348189": 43
@@ -197,66 +167,6 @@
     "1214778407_190": 65239
   },
   "messages_storage_meta": {
-    "60596": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:44:47.846573+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60597": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:44:51.493372+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60598": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:44:54.660616+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60599": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:44:57.575614+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60600": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:45:00.298773+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60601": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:45:03.112368+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60602": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:45:06.385251+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60603": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:45:11.845261+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60604": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:45:14.502772+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
-    "60605": {
-      "author_id": 0,
-      "timestamp": "2025-08-14T06:45:16.886859+00:00",
-      "author_message_id": null,
-      "board_id": "test"
-    },
     "63190": {
       "author_id": 0,
       "timestamp": "2025-08-15T19:32:37.619256+00:00",
