@@ -1,1 +1,19 @@
-{}
+{
+  "d67ceb85": {
+    "op_id": 7790111233,
+    "title": "дойкидля быдла",
+    "created_at": "2025-08-22T13:32:34.745229+00:00",
+    "last_activity_at": 1755869554.745599,
+    "posts": [
+      68516
+    ],
+    "subscribers": [
+      7790111233
+    ],
+    "local_mutes": {},
+    "local_shadow_mutes": {},
+    "is_archived": false,
+    "announced_milestones": [],
+    "activity_notified": false
+  }
+}
