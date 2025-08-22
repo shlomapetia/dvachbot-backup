@@ -1,5 +1,15 @@
 {
-  "1890028643": {},
+  "1890028643": {
+    "last_seen_main": 68838,
+    "location": "d67ceb85",
+    "last_location_switch": 1755883013.6216357,
+    "last_seen_threads": {
+      "d67ceb85": 68587
+    },
+    "sorted_threads_cache": [
+      "d67ceb85"
+    ]
+  },
   "7790111233": {
     "last_thread_creation": 1755869554.7452254,
     "location": "d67ceb85",
