@@ -79,5 +79,18 @@
       "d67ceb85": 68839,
       "529a8895": 69258
     }
+  },
+  "7562992782": {
+    "sorted_threads_cache": [
+      "529a8895",
+      "711b1adc",
+      "d67ceb85"
+    ],
+    "last_seen_main": 69288,
+    "location": "d67ceb85",
+    "last_location_switch": 1755942528.0863664,
+    "last_seen_threads": {
+      "d67ceb85": 68839
+    }
   }
 }
