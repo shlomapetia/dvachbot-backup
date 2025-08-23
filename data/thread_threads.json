@@ -43,5 +43,22 @@
     "is_archived": false,
     "announced_milestones": [],
     "activity_notified": false
+  },
+  "529a8895": {
+    "op_id": 714261538,
+    "title": "Дорогие друзья, в этот день я сейчас хорошенько посрал, поэт",
+    "created_at": "2025-08-23T08:13:35.903475+00:00",
+    "last_activity_at": 1755936815.9036791,
+    "posts": [
+      69256
+    ],
+    "subscribers": [
+      714261538
+    ],
+    "local_mutes": {},
+    "local_shadow_mutes": {},
+    "is_archived": false,
+    "announced_milestones": [],
+    "activity_notified": false
   }
 }
