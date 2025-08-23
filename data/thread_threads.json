@@ -15,7 +15,28 @@
     "subscribers": [
       7790111233,
       1890028643,
+      1318850140,
       1214778407
+    ],
+    "local_mutes": {},
+    "local_shadow_mutes": {},
+    "is_archived": false,
+    "announced_milestones": [],
+    "activity_notified": false
+  },
+  "711b1adc": {
+    "op_id": 1318850140,
+    "title": "MY LITTLE PONY ЕНТО КРУТО!!",
+    "created_at": "2025-08-23T04:17:50.733030+00:00",
+    "last_activity_at": 1755922701.8933613,
+    "posts": [
+      69127,
+      69129,
+      69130,
+      69131
+    ],
+    "subscribers": [
+      1318850140
     ],
     "local_mutes": {},
     "local_shadow_mutes": {},
