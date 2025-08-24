@@ -133,11 +133,12 @@
       "711b1adc",
       "d67ceb85"
     ],
-    "last_seen_main": 69631,
-    "location": "711b1adc",
-    "last_location_switch": 1755988974.2612154,
+    "last_seen_main": 69815,
+    "location": "529a8895",
+    "last_location_switch": 1756026697.095135,
     "last_seen_threads": {
-      "711b1adc": 69359
+      "711b1adc": 69359,
+      "529a8895": 69776
     },
     "last_history_request": 1755989042.498003
   },
