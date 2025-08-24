@@ -110,8 +110,8 @@
   },
   "8091284876": {
     "last_thread_creation": 1755970259.9890518,
-    "location": "529a8895",
-    "last_location_switch": 1755970857.700992,
+    "location": "379b9971",
+    "last_location_switch": 1756015807.7823813,
     "sorted_threads_cache": [
       "529a8895",
       "379b9971",
@@ -121,9 +121,10 @@
     "last_seen_threads": {
       "711b1adc": 69359,
       "379b9971": 69458,
-      "529a8895": 69488
+      "529a8895": 69776
     },
-    "last_seen_main": 69488
+    "last_seen_main": 69488,
+    "last_history_request": 1756015783.1539922
   },
   "1403958893": {
     "sorted_threads_cache": [
