@@ -227,15 +227,16 @@
       "379b9971",
       "711b1adc"
     ],
-    "last_seen_main": 71655,
-    "location": "d67ceb85",
-    "last_location_switch": 1756096445.2046893,
+    "last_seen_main": 71741,
+    "location": "379b9971",
+    "last_location_switch": 1756109222.2800748,
     "last_seen_threads": {
-      "d67ceb85": 71382,
+      "d67ceb85": 71734,
       "529a8895": 69975,
       "cb5e47f5": 71334,
       "379b9971": 69957
-    }
+    },
+    "last_history_request": 1756109187.4132266
   },
   "318636841": {
     "sorted_threads_cache": [
