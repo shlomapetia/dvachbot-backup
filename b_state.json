@@ -329,7 +329,9 @@
     "banned": []
   },
   "message_counter": {},
-  "board_post_count": 68874,
-  "shadow_mutes": {},
-  "post_counter": 72785
+  "board_post_count": 68896,
+  "shadow_mutes": {
+    "5886342443": "2025-08-27T08:09:04.420072+00:00"
+  },
+  "post_counter": 72807
 }
