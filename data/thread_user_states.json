@@ -105,22 +105,6 @@
     },
     "last_history_request": 1755989042.498003
   },
-  "1350735121": {
-    "sorted_threads_cache": [
-      "529a8895",
-      "379b9971",
-      "d67ceb85",
-      "711b1adc"
-    ],
-    "last_seen_main": 69784,
-    "location": "529a8895",
-    "last_location_switch": 1756053514.5911217,
-    "last_seen_threads": {
-      "379b9971": 69458,
-      "d67ceb85": 69290,
-      "529a8895": 69975
-    }
-  },
   "855986129": {
     "sorted_threads_cache": [
       "d67ceb85",
@@ -176,40 +160,6 @@
       "379b9971",
       "711b1adc"
     ]
-  },
-  "5797537227": {
-    "sorted_threads_cache": [
-      "acc98fc7",
-      "1ca356cf",
-      "d67ceb85",
-      "c89e62a9",
-      "babd689f",
-      "6cc05598",
-      "5aebcdba",
-      "08e95cec",
-      "27935c9a",
-      "11c4cd6f",
-      "13aed7cf",
-      "695b3933",
-      "bc4eb478",
-      "cb5e47f5",
-      "529a8895",
-      "379b9971",
-      "711b1adc"
-    ],
-    "last_seen_main": 73199,
-    "location": "acc98fc7",
-    "last_location_switch": 1756214808.368701,
-    "last_seen_threads": {
-      "d67ceb85": 71845,
-      "529a8895": 69975,
-      "cb5e47f5": 71334,
-      "379b9971": 69957,
-      "950125d9": 72005,
-      "1ca356cf": 72644,
-      "acc98fc7": 73180
-    },
-    "last_history_request": 1756109187.4132266
   },
   "318636841": {
     "sorted_threads_cache": [
@@ -339,35 +289,6 @@
       "cb5e47f5": 71334
     },
     "last_thread_creation": 1756214578.2105675
-  },
-  "1890028643": {
-    "last_seen_main": 75516,
-    "location": "acc98fc7",
-    "last_location_switch": 1756361456.8211215,
-    "last_seen_threads": {
-      "1ca356cf": 73286,
-      "acc98fc7": 75515,
-      "c89e62a9": 71932,
-      "babd689f": 71930,
-      "6cc05598": 71928,
-      "5aebcdba": 71926,
-      "08e95cec": 71924,
-      "27935c9a": 71922,
-      "11c4cd6f": 71920,
-      "13aed7cf": 71917,
-      "695b3933": 71914,
-      "bc4eb478": 71911,
-      "529a8895": 75516
-    },
-    "sorted_threads_cache": [
-      "529a8895",
-      "acc98fc7",
-      "1ca356cf",
-      "d67ceb85",
-      "cb5e47f5",
-      "379b9971",
-      "711b1adc"
-    ]
   },
   "7790111233": {
     "sorted_threads_cache": [
