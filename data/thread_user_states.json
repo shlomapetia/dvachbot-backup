@@ -155,11 +155,22 @@
   },
   "772323094": {
     "sorted_threads_cache": [
-      "d67ceb85",
+      "acc98fc7",
       "529a8895",
+      "1ca356cf",
+      "d67ceb85",
+      "cb5e47f5",
       "379b9971",
       "711b1adc"
-    ]
+    ],
+    "last_seen_main": 76668,
+    "location": "main",
+    "last_location_switch": 1756456641.016101,
+    "last_seen_threads": {
+      "d67ceb85": 72517,
+      "acc98fc7": 75519,
+      "cb5e47f5": 71334
+    }
   },
   "318636841": {
     "sorted_threads_cache": [
