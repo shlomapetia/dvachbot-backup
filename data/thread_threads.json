@@ -312,5 +312,30 @@
     "is_archived": false,
     "announced_milestones": [],
     "activity_notified": false
+  },
+  "1b2fbe77": {
+    "op_id": 5797537227,
+    "title": "Вайп борды",
+    "created_at": "2025-08-29T11:17:41.305513+00:00",
+    "last_activity_at": 1756466471.237979,
+    "posts": [
+      78461,
+      78462,
+      78463,
+      78464,
+      78465,
+      78466,
+      78467,
+      78468
+    ],
+    "subscribers": [
+      714261538,
+      5797537227
+    ],
+    "local_mutes": {},
+    "local_shadow_mutes": {},
+    "is_archived": false,
+    "announced_milestones": [],
+    "activity_notified": false
   }
 }
