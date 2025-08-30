@@ -10,5 +10,15 @@
       "9a88dfd5"
     ]
   },
-  "5797537227": {}
+  "5797537227": {
+    "sorted_threads_cache": [
+      "9a88dfd5"
+    ],
+    "last_seen_main": 79784,
+    "location": "9a88dfd5",
+    "last_location_switch": 1756580948.646793,
+    "last_seen_threads": {
+      "9a88dfd5": 79065
+    }
+  }
 }
