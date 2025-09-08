@@ -415,7 +415,26 @@
     ],
     "subscribers": [
       714261538,
-      732607779
+      732607779,
+      6018222604
+    ],
+    "local_mutes": {},
+    "local_shadow_mutes": {},
+    "is_archived": false,
+    "announced_milestones": [],
+    "activity_notified": false
+  },
+  "c9080920": {
+    "op_id": 6018222604,
+    "title": "фотки котиков тут",
+    "created_at": "2025-09-08T13:11:24.353568+00:00",
+    "last_activity_at": 1757337169.5307763,
+    "posts": [
+      92771,
+      92773
+    ],
+    "subscribers": [
+      6018222604
     ],
     "local_mutes": {},
     "local_shadow_mutes": {},
