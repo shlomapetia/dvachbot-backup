@@ -22,5 +22,15 @@
     }
   },
   "1890028643": {},
-  "7716348189": {}
+  "7716348189": {
+    "sorted_threads_cache": [
+      "9a88dfd5"
+    ],
+    "last_seen_main": 99949,
+    "location": "9a88dfd5",
+    "last_location_switch": 1757718544.541892,
+    "last_seen_threads": {
+      "9a88dfd5": 96034
+    }
+  }
 }
