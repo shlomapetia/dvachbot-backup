@@ -478,5 +478,26 @@
     "is_archived": false,
     "announced_milestones": [],
     "activity_notified": false
+  },
+  "2af8da01": {
+    "op_id": 7942034026,
+    "title": "я няшный парень, ищу кому показать ступни",
+    "created_at": "2025-09-12T13:48:32.609656+00:00",
+    "last_activity_at": 1757685038.0247023,
+    "posts": [
+      99271,
+      99274,
+      99275
+    ],
+    "subscribers": [
+      7942034026,
+      1890028643,
+      6911189940
+    ],
+    "local_mutes": {},
+    "local_shadow_mutes": {},
+    "is_archived": false,
+    "announced_milestones": [],
+    "activity_notified": false
   }
 }
