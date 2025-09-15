@@ -971,5 +971,30 @@
     "last_seen_threads": {
       "2af8da01": 99431
     }
+  },
+  "374757775": {
+    "sorted_threads_cache": [
+      "4a728bba",
+      "2af8da01",
+      "1ca356cf",
+      "d67ceb85",
+      "c9080920",
+      "1b09f9df",
+      "acc98fc7",
+      "cb5e47f5",
+      "582b0023",
+      "1b2fbe77",
+      "529a8895",
+      "379b9971",
+      "711b1adc"
+    ],
+    "last_seen_main": 103438,
+    "location": "4a728bba",
+    "last_location_switch": 1757946288.775262,
+    "last_seen_threads": {
+      "379b9971": 69957,
+      "d67ceb85": 98289,
+      "4a728bba": 99552
+    }
   }
 }
