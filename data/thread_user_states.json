@@ -97,7 +97,13 @@
       "d67ceb85",
       "529a8895",
       "711b1adc"
-    ]
+    ],
+    "last_seen_main": 104904,
+    "location": "208c72d6",
+    "last_location_switch": 1758037311.347318,
+    "last_seen_threads": {
+      "208c72d6": 104226
+    }
   },
   "8091284876": {
     "last_thread_creation": 1755970259.9890518,
