@@ -85,54 +85,5 @@
   },
   "1160265344": {
     "location": "379b9971"
-  },
-  "7260356018": {
-    "sorted_threads_cache": [
-      "d67ceb85",
-      "711b1adc",
-      "529a8895",
-      "379b9971",
-      "cb5e47f5",
-      "1ca356cf",
-      "acc98fc7",
-      "1b2fbe77",
-      "582b0023",
-      "1b09f9df",
-      "c9080920",
-      "2af8da01",
-      "4a728bba",
-      "ffbf4f7e",
-      "208c72d6",
-      "3862b549"
-    ]
-  },
-  "832019252": {
-    "sorted_threads_cache": [
-      "1ca356cf",
-      "2af8da01",
-      "4a728bba",
-      "3862b549",
-      "d67ceb85",
-      "711b1adc",
-      "529a8895",
-      "379b9971",
-      "cb5e47f5",
-      "acc98fc7",
-      "1b2fbe77",
-      "582b0023",
-      "1b09f9df",
-      "c9080920",
-      "ffbf4f7e",
-      "208c72d6"
-    ],
-    "last_seen_main": 117349,
-    "location": "main",
-    "last_location_switch": 1758777325.896679,
-    "last_seen_threads": {
-      "3862b549": 117347,
-      "4a728bba": 117348,
-      "2af8da01": 117349,
-      "1ca356cf": 117350
-    }
   }
 }

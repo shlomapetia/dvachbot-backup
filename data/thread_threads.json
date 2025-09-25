@@ -50,10 +50,7 @@
     "posts": [
       117350
     ],
-    "subscribers": [
-      832019252
-    ],
-    "last_activity_at": 1758777318.0752141
+    "subscribers": []
   },
   "acc98fc7": {
     "op_id": 782615257,
@@ -103,10 +100,7 @@
     "posts": [
       117349
     ],
-    "subscribers": [
-      832019252
-    ],
-    "last_activity_at": 1758777279.6681411
+    "subscribers": []
   },
   "4a728bba": {
     "op_id": 198492972,
@@ -116,10 +110,7 @@
     "posts": [
       117348
     ],
-    "subscribers": [
-      832019252
-    ],
-    "last_activity_at": 1758777248.5027194
+    "subscribers": []
   },
   "ffbf4f7e": {
     "op_id": 1926732808,
@@ -145,9 +136,6 @@
     "posts": [
       117347
     ],
-    "subscribers": [
-      832019252
-    ],
-    "last_activity_at": 1758777213.2176356
+    "subscribers": []
   }
 }
