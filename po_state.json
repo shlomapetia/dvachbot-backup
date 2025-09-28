@@ -44,6 +44,8 @@
     "banned": []
   },
   "message_counter": {},
-  "board_post_count": 40,
-  "shadow_mutes": {}
+  "board_post_count": 54,
+  "shadow_mutes": {
+    "5886342443": "2025-09-30T20:16:22.944672+00:00"
+  }
 }
