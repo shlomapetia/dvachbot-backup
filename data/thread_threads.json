@@ -137,5 +137,20 @@
       117347
     ],
     "subscribers": []
+  },
+  "42ac4766": {
+    "op_id": 5144961443,
+    "title": "Копро тред",
+    "created_at": "2025-09-28T21:21:52.613101+00:00",
+    "last_activity_at": 1759094512.611403,
+    "posts": [],
+    "subscribers": [
+      5144961443
+    ],
+    "local_mutes": {},
+    "local_shadow_mutes": {},
+    "is_archived": false,
+    "announced_milestones": [],
+    "activity_notified": false
   }
 }
