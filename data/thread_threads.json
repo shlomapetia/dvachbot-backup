@@ -98,9 +98,14 @@
     "created_at": "2025-09-12T13:48:32.609656+00:00",
     "is_archived": false,
     "posts": [
-      117349
+      117349,
+      122675,
+      122676,
+      122677,
+      122678
     ],
-    "subscribers": []
+    "subscribers": [],
+    "last_activity_at": 1759177120.3681328
   },
   "4a728bba": {
     "op_id": 198492972,
