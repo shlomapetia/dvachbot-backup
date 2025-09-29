@@ -5,7 +5,9 @@
     "created_at": "2025-08-22T13:32:34.745229+00:00",
     "is_archived": false,
     "posts": [],
-    "subscribers": []
+    "subscribers": [
+      5144961443
+    ]
   },
   "711b1adc": {
     "op_id": 1318850140,
@@ -143,7 +145,15 @@
     "title": "Копро тред",
     "created_at": "2025-09-28T21:21:52.611403+00:00",
     "is_archived": false,
-    "posts": [],
-    "subscribers": []
+    "posts": [
+      121414,
+      121415,
+      121438,
+      121439
+    ],
+    "subscribers": [
+      5144961443
+    ],
+    "last_activity_at": 1759103248.0183256
   }
 }
