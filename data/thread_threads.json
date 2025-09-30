@@ -104,8 +104,7 @@
       122677,
       122678
     ],
-    "subscribers": [],
-    "last_activity_at": 1759177120.3681328
+    "subscribers": []
   },
   "4a728bba": {
     "op_id": 198492972,
@@ -159,16 +158,9 @@
   "2d628d91": {
     "op_id": 1065943542,
     "title": "Сап психач",
-    "created_at": "2025-09-30T02:36:38.663822+00:00",
-    "last_activity_at": 1759199798.6631796,
-    "posts": [],
-    "subscribers": [
-      1065943542
-    ],
-    "local_mutes": {},
-    "local_shadow_mutes": {},
+    "created_at": "2025-09-30T02:36:38.663180+00:00",
     "is_archived": false,
-    "announced_milestones": [],
-    "activity_notified": false
+    "posts": [],
+    "subscribers": []
   }
 }
