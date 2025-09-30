@@ -155,5 +155,20 @@
       121439
     ],
     "subscribers": []
+  },
+  "2d628d91": {
+    "op_id": 1065943542,
+    "title": "Сап психач",
+    "created_at": "2025-09-30T02:36:38.663822+00:00",
+    "last_activity_at": 1759199798.6631796,
+    "posts": [],
+    "subscribers": [
+      1065943542
+    ],
+    "local_mutes": {},
+    "local_shadow_mutes": {},
+    "is_archived": false,
+    "announced_milestones": [],
+    "activity_notified": false
   }
 }
