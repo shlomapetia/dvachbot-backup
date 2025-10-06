@@ -116,5 +116,34 @@
   },
   "714261538": {
     "last_thread_creation": 1759736912.6078715
+  },
+  "5244671486": {
+    "sorted_threads_cache": [
+      "fa2939ec",
+      "d67ceb85",
+      "711b1adc",
+      "529a8895",
+      "379b9971",
+      "cb5e47f5",
+      "1ca356cf",
+      "acc98fc7",
+      "1b2fbe77",
+      "582b0023",
+      "1b09f9df",
+      "c9080920",
+      "2af8da01",
+      "4a728bba",
+      "ffbf4f7e",
+      "208c72d6",
+      "3862b549",
+      "42ac4766",
+      "2d628d91"
+    ],
+    "last_seen_main": 130370,
+    "location": "1ca356cf",
+    "last_location_switch": 1759766420.8932817,
+    "last_seen_threads": {
+      "1ca356cf": 117350
+    }
   }
 }
