@@ -50,9 +50,7 @@
     "posts": [
       117350
     ],
-    "subscribers": [
-      5244671486
-    ]
+    "subscribers": []
   },
   "acc98fc7": {
     "op_id": 782615257,
@@ -106,9 +104,7 @@
       122677,
       122678
     ],
-    "subscribers": [
-      6366203745
-    ]
+    "subscribers": []
   },
   "4a728bba": {
     "op_id": 198492972,
@@ -170,16 +166,9 @@
   "fa2939ec": {
     "op_id": 714261538,
     "title": "Ты пидоръ",
-    "created_at": "2025-10-06T07:48:32.626205+00:00",
-    "last_activity_at": 1759736912.6078715,
-    "posts": [],
-    "subscribers": [
-      714261538
-    ],
-    "local_mutes": {},
-    "local_shadow_mutes": {},
+    "created_at": "2025-10-06T07:48:32.607872+00:00",
     "is_archived": false,
-    "announced_milestones": [],
-    "activity_notified": false
+    "posts": [],
+    "subscribers": []
   }
 }
