@@ -1,14 +1,9 @@
 {
   "users_data": {
-    "active": [
-      5797537227,
-      7716348189,
-      1890028643,
-      1214778407
-    ],
+    "active": [],
     "banned": []
   },
   "message_counter": {},
-  "board_post_count": 14,
+  "board_post_count": 0,
   "shadow_mutes": {}
 }
